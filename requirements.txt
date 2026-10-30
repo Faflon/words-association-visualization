@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+networkx>=3.0
+matplotlib
+seaborn
+plotly
+umap-learn
+xgboost
+jupyter
+ipykernel
