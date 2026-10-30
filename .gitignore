@@ -1,0 +1,22 @@
+# Datasets
+data/raw/
+data/processed/
+*.zip
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Generated outputs
+outputs/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
